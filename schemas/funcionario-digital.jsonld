@@ -1,0 +1,53 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "@id": "https://xmacna.ai/funcionario-digital#service",
+  "name": "Funcionario Digital com IA",
+  "serviceType": "Funcionarios Digitais com IA",
+  "url": "https://xmacna.ai/funcionario-digital",
+  "provider": {
+    "@id": "https://xmacna.ai/#organization"
+  },
+  "areaServed": {
+    "@type": "Country",
+    "name": "Brasil"
+  },
+  "description": "Funcionario Digital com IA e um agente de Inteligencia Artificial projetado para executar tarefas reais em vendas, atendimento e operacao.",
+  "audience": {
+    "@type": "BusinessAudience",
+    "audienceType": "Empresas que querem vender, atender e automatizar processos com IA."
+  },
+  "category": [
+    "Inteligencia Artificial",
+    "AI Agents",
+    "Business Automation",
+    "Sales Automation",
+    "WhatsApp Automation"
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Aplicacoes de Funcionarios Digitais",
+    "itemListElement": [
+      {
+        "@type": "OfferCatalog",
+        "name": "Vendas com IA"
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "Atendimento com IA"
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "Automacao de processos com IA"
+      }
+    ]
+  },
+  "isRelatedTo": [
+    {
+      "@id": "https://xmacna.ai/sdr-com-ia#service"
+    },
+    {
+      "@id": "https://xmacna.ai/automacao-de-processos#service"
+    }
+  ]
+}
