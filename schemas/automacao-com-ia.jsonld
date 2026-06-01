@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "@id": "https://xmacna.ai/automacao-de-processos#service",
+  "name": "Automacao com IA",
+  "serviceType": "Automacao de processos com Inteligencia Artificial",
+  "url": "https://xmacna.ai/automacao-de-processos",
+  "provider": {
+    "@id": "https://xmacna.ai/#organization"
+  },
+  "areaServed": {
+    "@type": "Country",
+    "name": "Brasil"
+  },
+  "description": "Automacao com IA da XMACNA combina agentes de IA, integracoes, dados e regras de negocio para executar processos comerciais e operacionais.",
+  "audience": {
+    "@type": "BusinessAudience",
+    "audienceType": "Empresas que precisam automatizar atendimento, vendas, operacao e rotinas repetitivas com contexto."
+  },
+  "category": [
+    "automacao com IA",
+    "automacao de processos",
+    "Inteligencia Artificial para empresas",
+    "Workflow Automation",
+    "CRM com IA"
+  ],
+  "isRelatedTo": [
+    {
+      "@id": "https://xmacna.ai/funcionario-digital#service"
+    },
+    {
+      "@id": "https://xmacna.ai/sdr-com-ia#service"
+    }
+  ]
+}
