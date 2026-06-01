@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://xmacna.ai/#organization",
+  "name": "XMACNA",
+  "url": "https://xmacna.ai",
+  "description": "XMACNA cria Funcionarios Digitais com IA para empresas que querem vender, atender e automatizar processos.",
+  "foundingDate": "1988",
+  "slogan": "Funcionarios Digitais com IA",
+  "knowsAbout": [
+    "Inteligencia Artificial para empresas",
+    "Funcionarios Digitais com IA",
+    "agentes de IA para empresas",
+    "IA para vendas",
+    "agente de IA para WhatsApp",
+    "automacao com IA",
+    "CRM com IA"
+  ],
+  "areaServed": {
+    "@type": "Country",
+    "name": "Brasil"
+  },
+  "sameAs": [
+    "https://github.com/xmacna"
+  ]
+}
