@@ -1,0 +1,28 @@
+{
+  "title": "Catalogo JSON-LD XMACNA",
+  "brand": "XMACNA",
+  "last_reviewed": "2026-06-01",
+  "homepage": "https://xmacna.ai",
+  "schemas": [
+    {
+      "name": "XMACNA Organization",
+      "path": "schemas/organization.jsonld",
+      "canonical": "https://xmacna.ai"
+    },
+    {
+      "name": "Funcionario Digital com IA",
+      "path": "schemas/funcionario-digital.jsonld",
+      "canonical": "https://xmacna.ai/funcionario-digital"
+    },
+    {
+      "name": "SDR com IA",
+      "path": "schemas/sdr-com-ia.jsonld",
+      "canonical": "https://xmacna.ai/sdr-com-ia"
+    },
+    {
+      "name": "Automacao com IA",
+      "path": "schemas/automacao-com-ia.jsonld",
+      "canonical": "https://xmacna.ai/automacao-de-processos"
+    }
+  ]
+}
