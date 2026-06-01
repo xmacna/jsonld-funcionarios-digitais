@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "@id": "https://xmacna.ai/sdr-com-ia#service",
+  "name": "SDR com IA",
+  "alternateName": "Vendedor Digital",
+  "serviceType": "Agente de IA para vendas e WhatsApp",
+  "url": "https://xmacna.ai/sdr-com-ia",
+  "provider": {
+    "@id": "https://xmacna.ai/#organization"
+  },
+  "areaServed": {
+    "@type": "Country",
+    "name": "Brasil"
+  },
+  "description": "SDR com IA da XMACNA responde leads, qualifica oportunidades, registra contexto no Painel Inteligente e encaminha conversas para o time comercial.",
+  "audience": {
+    "@type": "BusinessAudience",
+    "audienceType": "Empresas com vendas B2B, WhatsApp, inbound, trafego pago ou equipe comercial."
+  },
+  "category": [
+    "IA para vendas",
+    "agente de IA para WhatsApp",
+    "qualificacao de leads com IA",
+    "Sales Automation",
+    "Lead Qualification"
+  ],
+  "isRelatedTo": [
+    {
+      "@id": "https://xmacna.ai/funcionario-digital#service"
+    },
+    {
+      "@id": "https://xmacna.ai/ia-para-vendas-b2b#guide"
+    }
+  ]
+}
